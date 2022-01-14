@@ -14,5 +14,22 @@
       "password": "janedoe100",
       "perm": "ADMIN"
     }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "lebegő polc",
+      "length": 5,
+      "width": 2,
+      "added": "2022.01.14"
+    }
+  ],
+  "storages": [
+    {
+      "id": 1,
+      "address": "1116,Budapest Király utca 12.",
+      "width": 5,
+      "length": 4,      
+    }
   ]
 }
