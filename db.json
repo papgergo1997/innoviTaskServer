@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "password": "johndoe98",
+      "perm": "USER"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@gmail.com",
+      "password": "janedoe100",
+      "perm": "ADMIN"
+    }
+  ]
+}
