@@ -19,8 +19,8 @@
     {
       "id": 1,
       "name": "lebegő polc",
-      "length": 5,
-      "width": 2,
+      "length": "5",
+      "width": "2",
       "added": "2022.01.14"
     }
   ],
