@@ -22,6 +22,20 @@
       "length": "5",
       "width": "2",
       "added": "2022.01.14"
+    },
+    {
+      "id": "2",
+      "name": "polc",
+      "length": "3",
+      "width": "1",
+      "added": "2022.01.15"
+    },
+    {
+      "id": "3",
+      "name": "álló polc",
+      "length": "1",
+      "width": "1",
+      "added": "2022.01.16"
     }
   ],
   "storages": [
